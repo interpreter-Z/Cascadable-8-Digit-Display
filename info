@@ -1,0 +1,177 @@
+{
+  "path": "Offline/Test",
+  "foldername": "Test",
+  "name": "Test",
+  "title": "Test",
+  "uuid": "8d5ff7e2deacef3b823b561bd27b556e",
+  "created_at": "2023-12-18 21:27:02",
+  "updated_at": "2024-01-02 18:44:57",
+  "documents": [
+    {
+      "uuid": "0a9b1fdc9f622e6c43d2fdae7cde0802",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1704192297,
+      "createTime": 1702905976,
+      "histories": [],
+      "created_at": "2023-12-18 21:26:16",
+      "updated_at": "2024-01-02 18:44:57",
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DW254W-11-02-85",
+          1,
+          "CONN-TH_2P-P2.54_DEALON_DW254W-11-02-85",
+          "H1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "df21dd63318c42149a2d2fc4288cb2f5",
+            "uuid": "f3f45a0d784243459da4e34eb7f8438b"
+          }
+        ],
+        [
+          "DZ254W-11-02-65",
+          1,
+          "HDR-TH_2P-P2.54-H-M-W10.0",
+          "H2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "6b2bf4d849054445986318e327a020b0",
+            "uuid": "7990ea33f2dc4eeebf1f94d18b0f64dc"
+          }
+        ],
+        [
+          "DW254W-22-12-85",
+          1,
+          "HDR-TH_12P-P2.54-H-F-R2-C6-S2.54-W12.7-N",
+          "H3",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "4376ad055df44f73b1768c4eb7ea14f7",
+            "uuid": "ec1d9bfa2f074a9883fdc8fe25eef6fa"
+          }
+        ],
+        [
+          "DZ254W-22-12-69",
+          1,
+          "HDR-TH_12P-P2.54-H-M-R2-C6-S2.54-W12.5",
+          "H4",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "737b466828894a4894c9d764e75b9af9",
+            "uuid": "68606342f83b4538b1bfc0b550f4e914"
+          }
+        ],
+        [
+          "SR410401N",
+          1,
+          "LED-SEG-TH_12P-L40.5-W16.0-P2.54-S12.70-BL",
+          "LED1",
+          {
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "C143236",
+            "puuid": "939792d6d45741ecba85ba1aee9f39c6",
+            "uuid": "89b49af24b064f739f9dbaa107f59d06"
+          }
+        ],
+        [
+          "SR410401N",
+          1,
+          "LED-SEG-TH_12P-L40.5-W16.0-P2.54-S12.70-BL",
+          "LED2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "939792d6d45741ecba85ba1aee9f39c6",
+            "uuid": "89b49af24b064f739f9dbaa107f59d06"
+          }
+        ],
+        [
+          "2N7002",
+          8,
+          "SOT-23_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Nexperia",
+            "BOM_Manufacturer Part": "2N7002,215",
+            "BOM_Supplier Part": "C65189",
+            "BOM_Paste Type": "expand",
+            "puuid": "2a819e02584e46aea9f04b619de61270",
+            "uuid": "978dd86cb8f545279789152357b8a3b4"
+          }
+        ],
+        [
+          "74HC164D",
+          1,
+          "SOP-14_L8.7-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "8c8330ba036043b3904235d60b10afc5",
+            "uuid": "53aefd0a2f434283b6feff04e2d9ddbc"
+          }
+        ]
+      ],
+      "components": {
+        "89b49af24b064f739f9dbaa107f59d06": 2,
+        "53aefd0a2f434283b6feff04e2d9ddbc": 1,
+        "68606342f83b4538b1bfc0b550f4e914": 1,
+        "ec1d9bfa2f074a9883fdc8fe25eef6fa": 1,
+        "f3f45a0d784243459da4e34eb7f8438b": 1,
+        "7990ea33f2dc4eeebf1f94d18b0f64dc": 1,
+        "978dd86cb8f545279789152357b8a3b4": 8
+      }
+    },
+    {
+      "uuid": "17f406d95e41dfe67cac52920f9f34e6",
+      "title": "PCB_Test",
+      "filename": "PCB_Test.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1702890290,
+      "createTime": 1702890290,
+      "histories": [],
+      "created_at": "2023-12-18 17:04:50",
+      "updated_at": "2023-12-18 17:04:50"
+    },
+    {
+      "uuid": "62b10d843569b95d251de43d3a82d51c",
+      "title": "PCB_Test_2",
+      "filename": "PCB_Test_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1702906565,
+      "createTime": 1702905976,
+      "histories": [],
+      "created_at": "2023-12-18 21:26:16",
+      "updated_at": "2023-12-18 21:36:05",
+      "components": {
+        "df21dd63318c42149a2d2fc4288cb2f5": 1,
+        "6b2bf4d849054445986318e327a020b0": 1,
+        "4376ad055df44f73b1768c4eb7ea14f7": 1,
+        "737b466828894a4894c9d764e75b9af9": 1,
+        "939792d6d45741ecba85ba1aee9f39c6": 2,
+        "2a819e02584e46aea9f04b619de61270": 8,
+        "8c8330ba036043b3904235d60b10afc5": 1
+      }
+    }
+  ],
+  "content": "",
+  "stick": "",
+  "sort": [],
+  "schfilename": "Test.json",
+  "schfilemtime": 1704192297059
+}
