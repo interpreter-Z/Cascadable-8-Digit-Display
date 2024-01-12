@@ -1,4 +1,4 @@
-Cascadable 8-Digit 8-Segment Display
+Cascadable 8-Digit 8-Segment Display (EasyEDA)
 
 - A display unit consisting of eight 8-segment display units (digits).
 - Display units can be cascaded vertically (row-wise)
